@@ -23,7 +23,7 @@ Im a Junior **Developer** with adhd, I love to write code.
   
   #### 🐧 Linux Enthusiast
   
-  **I love Linux (fun fact Androi is based on Linux kernel)**
+  **I love Linux (fun fact Android is based on Linux kernel)**
   
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)

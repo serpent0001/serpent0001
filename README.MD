@@ -20,14 +20,6 @@ Im a Junior **Developer** with adhd, I love to write code.
 
 > I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL).
 
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-  
-  
-  </td>
-  <td valign="top" width="50%">
   
   #### 🐧 Linux Enthusiast
   

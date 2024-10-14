@@ -4,7 +4,7 @@
 
 <div class="github-introduction">
 
-Im a Junior **Developer** with adhd, I love to write code.
+Im a Junior **Developer** with adhd, currently working on a FiveM server called BlessedGangRP
 
 ## 📈 My GitHub stats
 

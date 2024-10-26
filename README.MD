@@ -24,6 +24,7 @@ Im a Junior **Developer** with adhd, currently working on a FiveM server called 
   #### 🐧 Linux Enthusiast
   
   **I love Linux (fun fact Android is based on Linux kernel)**
+
   **My dream is to be working as an Software Developer when I grow up.**
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)

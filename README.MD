@@ -1,12 +1,12 @@
-# Hello, I'm Session 👋
+# Hello, I am Serpent 👋
 
 ![Views](https://komarev.com/ghpvc/?username=sessionl33t&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
-Im a Junior **Developer** with adhd, currently working on a FiveM server called BlessedGangRP
+I am an Junior **Developer** with adhd, currently working on a FiveM server called BlessedGangRP
 
-## 📈 My GitHub stats
+## 📈 Github stats
 
 <div class="badges-githubstats">
   <p align="center">
@@ -18,7 +18,7 @@ Im a Junior **Developer** with adhd, currently working on a FiveM server called 
 
 ### <p align="center"> My development environment </p>
 
-> I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL).
+> I grew up with Windows, I remember using my father's old Windows 95 powered PC, and I have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL).
 
   
   #### 🐧 Linux Enthusiast

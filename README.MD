@@ -1,6 +1,6 @@
 # Hello, I'm Session 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=sessionl33t&label=Profile%20views&color=60598F&style=flat)
+![Views](https://komarev.com/ghpvc/?username=sessionl33t&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
@@ -24,7 +24,8 @@ Im a Junior **Developer** with adhd, currently working on a FiveM server called 
   #### 🐧 Linux Enthusiast
   
   **I love Linux (fun fact Android is based on Linux kernel)**
-  
+  **My dream is to be working as an Software Developer when I grow up.**
+
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)

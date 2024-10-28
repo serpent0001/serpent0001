@@ -18,17 +18,12 @@ I am an Junior **Developer** with adhd, currently working on a FiveM server call
 
 ### <p align="center"> My development environment </p>
 
-> I grew up with Windows, I remember using my father's old Windows 95 powered PC, and I have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL).
+> I grew up with Windows, I remember using my father's old Windows 95 powered PC
+ I have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL).
 
   
-  **But I still like Linux (fun fact Android is based on Linux kernel)**
-
   **My dream is to be working as an Software Engineer when I grow up.**
 
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
-  
   </td>
   </tr>
   </table>

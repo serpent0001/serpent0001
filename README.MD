@@ -10,8 +10,8 @@ I am an Junior **Developer** with adhd, currently working on a FiveM server call
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sessionl33t&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Session's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sessionl33t&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=serpent0001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Session's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=serpent0001&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
 
